@@ -1,3 +1,3 @@
 Erlkönig von J.W.Goethe
 -----------------------
-Änderung von Github uas
+Änderung von Github aus
